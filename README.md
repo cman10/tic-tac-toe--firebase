@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Tic Tac Toe
 
-A tic tac toe game built using functional and class based componentsand deployed on firebase.
+A tic tac toe game built using functional and class based components and deployed on firebase.
 
